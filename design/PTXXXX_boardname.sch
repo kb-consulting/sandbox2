@@ -14,4 +14,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 4750 3900 0    50   ~ 0
+Add text for 1.0 1A release
 $EndSCHEMATC
